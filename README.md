@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Atmos
+- 👀 I’m interested in HTML,CSS,JavaScript, and more
+- 🌱 I’m currently learning CSS Grid,GSAP
+
 <!--
 **atmos-code/atmos-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
